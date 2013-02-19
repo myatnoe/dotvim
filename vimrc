@@ -262,6 +262,7 @@ syntax on
     " Easy access to the shell
     " -------------------------------------------
         map <Leader><Leader> :!
+        map <space> :
 
     " Insert a blank link without leaving insert mode
     " -------------------------------------------
